@@ -1,0 +1,1 @@
+A simple server to host the `data.json` file given as a task.
